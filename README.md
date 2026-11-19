@@ -2,4 +2,5 @@
 
 Welcome to the OS Club Sessions repository! 
 
-You can use this folder for class files and folders covering everything we discussed during our sessions.
+You can use this folder for class files and folders covering everything we discussed during in our sessions.
+
